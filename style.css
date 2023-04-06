@@ -1,3 +1,20 @@
-header {
+.cabeçalho {
     background-color: aqua;
+    color: black;
+    display: flex;
+    padding: 10px;
+    justify-content: space-around;
+}
+.cabeçalho-imagem {
+width: 15%;
+height: 15%;
+}
+* {
+    margin: 0;
+    padding: 0;
+}
+.cabeçalho-item {
+    display: inline-block;
+    font-size: 30px;
+    padding: 0 0 0 30px;
 }
