@@ -1,12 +1,12 @@
 .cabeçalho {
-    background-color: aqua;
+    background-color: #2d6272;
     color: black;
     display: flex;
     padding: 10px;
     justify-content: space-around;
 }
 .cabeçalho-imagem {
-width: 15%;
+width: 20%;
 height: 15%;
 }
 * {
@@ -15,6 +15,19 @@ height: 15%;
 }
 .cabeçalho-item {
     display: inline-block;
-    font-size: 30px;
+    font-size: 35px;
     padding: 0 0 0 30px;
+}
+.escola-imagem {
+    width: 30%;
+}
+
+.escola {
+background-image: linear-gradient(#2d6272 , #73a5b4);
+color: black;
+font-size: 30px;
+padding: 300px 250px;
+}
+.escola-titulo {
+    padding: 24px 0;
 }
