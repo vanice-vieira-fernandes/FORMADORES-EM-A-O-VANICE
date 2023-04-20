@@ -18,9 +18,6 @@ height: 15%;
     font-size: 35px;
     padding: 0 0 0 30px;
 }
-.escola-imagem {
-    width: 30%;
-}
 
 .escola {
 background-image: linear-gradient(#2d6272 , #73a5b4);
@@ -30,4 +27,18 @@ padding: 300px 250px;
 }
 .escola-titulo {
     padding: 24px 0;
+}
+body {
+    font-family: sans-serif;
+}
+.estudante-div {
+    text-align: center;
+    padding: 24px 0;
+    background-color: #326879;
+}
+.estudante-imagem {
+width: 12%;
+}
+.estudante-titulo {
+    padding: 30px;
 }
